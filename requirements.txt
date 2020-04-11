@@ -1,0 +1,8 @@
+# Flask
+Flask == 1.1.1
+
+# PyMongo
+pymongo == 3.10.1
+
+# Flask-PyMongo
+Flask-PyMongo == 2.3.0
